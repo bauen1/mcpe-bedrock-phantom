@@ -1,4 +1,4 @@
-package proxy // import github.com/jhead/phantom/internal/proxy
+package proxy
 
 import (
 	"fmt"

@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/jhead/phantom/internal/proxy"
+	"github.com/bauen1/mcpe-bedrock-phantom/proxy"
 )
 
 var bindAddressString string

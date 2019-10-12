@@ -1,4 +1,4 @@
-module github.com/jhead/phantom/internal/proxy
+module github.com/bauen1/mcpe-bedrock-phantom
 
 go 1.12
 
